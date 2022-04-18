@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# English
 <!--
 - 🔭 I’m currently working on a python MINECRAFT(MineWorld)...
 - 🌱 I’m currently learning python.pyglet...
@@ -11,14 +10,3 @@
 - 😄 Pronouns: newcomer.
 - ⚡ Fun fact: I am an elementary school student!
 -->
-
-# 中文(简体)
-🔭 <!-- -我目前正在研究python MINECRAFT（MineWorld）...
-- 🌱 我目前正在学习 Python.pyglet...
-- 👯 我正在寻找合作的好朋友...
-- 🤔 我正在寻找 Python.pyglet 3D 的帮助...
-- 💬 问我一些简单的Python或C问题（如“if”，“else”，“else”，“else if（elif）”） 😁
-- 📫 如何联系我：在Github中！
-- 😄 代词：新人。
-- ⚡ 有趣的事实：我是一名上小学的学生！
--- >
