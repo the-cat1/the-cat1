@@ -14,4 +14,4 @@
 - [ ] 希望老师少布置点作业。
 - [ ] 每天晚托的时候就写完作业。
 
-[^1]: 详细请见the-cat1/Python/MineWorld/README.md
+[^1]: 详细请见[the-cat1/Python/MineWorld/](https://github.com/the-cat1/Python/tree/main/MineWorld)。
