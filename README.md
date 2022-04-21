@@ -1,12 +1,8 @@
-### Hi there 👋
+# 你好 👋
 
-<!--
-- 🔭 I’m currently working on a python MINECRAFT(MineWorld)...
-- 🌱 I’m currently learning python.pyglet...
-- 👯 I’m looking to collaborate on good friend...
-- 🤔 I’m looking for help with python.pyglet 3D...
-- 💬 Ask me about Some simple python or C problems (such as 'if', 'else', 'else if(elif)'). 😁）
-- 📫 How to reach me: In Github!
-- 😄 Pronouns: newcomer.
-- ⚡ Fun fact: I am an elementary school student!
--->
+## 我的爱好
+我喜欢折腾电脑，以至于我拆了一台电脑（我有两台电脑，全是别人送的😁）。
+喜欢Python，会一些C语言（看过和尝试过Unity，是看B站M_Studio的教程)
+
+## 我的身份
+我是一名正在上小学的学生😊。
