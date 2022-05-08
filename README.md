@@ -7,11 +7,6 @@
 ## 我的身份
 我是一名正在上小学的学生😊。
 
-## 我的项目
-最近，我想学习一下Python的Socket，于是就创建了一个名为“MineWorld”的项目[^1]，即Python版MINECRAFT，参照[/zifan-wang/Minecraft](https://github.com/zifan-wang/Minecraft)。不过，现在还不会pyglet3D，如果你知道这些知识的话，可以告诉我呀😉！
-
 ## 愿望
-- [ ] 希望老师少布置点作业。
-- [ ] 每天晚托的时候就写完作业。
-
-[^1]: 详细请见[the-cat1/Python/MineWorld/](https://github.com/the-cat1/Python/tree/main/MineWorld)。
+- 希望老师少布置点作业。
+- 每天晚托的时候就写完作业。
